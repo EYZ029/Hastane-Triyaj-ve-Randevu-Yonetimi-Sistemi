@@ -1,4 +1,3 @@
-# Hastane-Triyaj-ve-Randevu-Yönetim-Sistemi
 # 🏥 HASTANE TRİYAJ & RANDEVU YÖNETİMİ SİSTEMİ (ZAMAN ÖNCELİKLİ)
 
 Bu proje, hastane randevu ve triyaj birimlerinin iş akışını yönetmek için geliştirilmiş, dinamik önceliklendirme sistemidir. Java'nın **PriorityQueue** veri yapısı kullanılarak, aciliyet seviyesi ne olursa olsun randevu saati en erken olan hastanın öne alındığı (**Zaman > Aciliyet**) çift katmanlı bir öncelik mantığı uygulanmıştır.
